@@ -20,7 +20,7 @@ Cybershuttle is a state-of-the-art computational science framework that seamless
 * **Interactive and Scalable:** Balances intuitive, interactive local computing with large-scale remote high-performance computational power.
 * **Open and Modular:** Supports extensibility and customization through modular design, enabling easy integration of domain-specific AI and computational tools.
 
-Explore Cybershuttle: [Cybershuttle GitHub](https://github.com/GeorgiaTech-ARTISAN/cybershuttle)
+Explore Cybershuttle: [Cybershuttle GitHub](https://github.com/GT-ARTISAN/cybershuttle)
 
 ### Learn More
 
